@@ -1,7 +1,7 @@
 # Hello, I'm Dasharatha Meher 👋
 
 ### Certified Solutions Architect & Staff DevOps Engineer
-I am a cloud infrastructure expert with **14+ years of experience** specializing in secure, high-scale Cloud Infrastructure (AWS, GCP) and GitOps.
+I am a cloud infrastructure expert with **14+ years of experience** specializing in secure, high-scale Cloud Infrastructure (AWS, GCP), Containerized Platform and GitOps.
 Currently, I serve as a **Staff DevOps Engineer**, leading architectural designs for automated pipelines and FedRAMP-compliant systems.
 
 ---
